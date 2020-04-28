@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/windyKite/belial-blog-server/issues"
   },
-  "homepage": "https://github.com/windyKite/belial-blog-server#readme"
+  "homepage": "https://github.com/windyKite/belial-blog-server#readme",
+  "dependencies": {
+    "koa": "^2.11.0"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.11.3"
+  }
 }
